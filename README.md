@@ -11,7 +11,7 @@ VIKA adalah aplikasi pendamping vitamin cerdas yang dirancang untuk membantu pen
 ## 🛠 Teknologi yang Digunakan
 - **Framework:** Flutter
 - **Language:** Dart
-- **Design Reference:** https://www.figma.com/design/PjontGd68643hQGfsiyRmY/VIKA?node-id=0-1&p=f&t=4szBVoFuqKCOT8Fu-0
+- **Design Reference:** untuk design klik disini https://www.figma.com/design/PjontGd68643hQGfsiyRmY/VIKA?node-id=0-1&p=f&t=4szBVoFuqKCOT8Fu-0 dan prototype disini https://www.figma.com/proto/PjontGd68643hQGfsiyRmY/VIKA?node-id=10-4&p=f&t=DVze4E3iRyFwGXzd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A4
 
 ## 📱 Cara Menjalankan
 1. Clone repositori ini dengan perintah: git clone https://github.com/siwiforestry/vika.git
@@ -21,4 +21,4 @@ VIKA adalah aplikasi pendamping vitamin cerdas yang dirancang untuk membantu pen
 5. Jalankan aplikasi di emulator atau perangkat fisik Anda: flutter run
 
 ## 📝 Kontak
-Jika Anda memiliki saran, pertanyaan, atau ingin berkontribusi dalam pengembangan aplikasi VIKA, silakan hubungi pengembang melalui repositori ini atau kirimkan pesan kepada saya melalui GitHub @siwiforestry atau email siwiforestry@gmail.com
+Jika Anda memiliki saran, pertanyaan, atau ingin berkontribusi dalam pengembangan aplikasi VIKA, silakan hubungi pengembang melalui repositori ini atau kirimkan pesan melalui GitHub @siwiforestry atau email siwiforestry@gmail.comls -l README.md
